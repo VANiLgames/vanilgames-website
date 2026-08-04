@@ -1,0 +1,5 @@
+Add these files to this folder when available:
+- air-domination-rules-en.pdf
+- air-domination-rules-cs.pdf
+- air-domination-rules-de.pdf
+The website buttons are already configured for these filenames.
